@@ -2,4 +2,4 @@
 
 ## Finished App
 
-(main_screen.png)
+![Finished App](main_screen.png)
